@@ -3,7 +3,7 @@
   "timed_tests": true,
   "slow_suite_minutes": 0,
   "hang_test": false,
-  "flaky_test": false,
+  "flaky_test": true,
   "inspect_environment": false,
   "fail_restore": false,
   "fail_upload": false,
